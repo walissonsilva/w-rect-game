@@ -1,4 +1,4 @@
-# T-Rect Game
+# W-Rect Game
 
 Meu primeiro jogo criado utilizando a biblioteca pygame do Python. O jogo se assemelha um pouco o [T-Rex Game](http://www.trex-game.skipser.com/). =)
 
